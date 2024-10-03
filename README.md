@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img width="600px"  align="center" src="https://mxrie.jsmb.fr/img/banner.png">
 </p>
 -->
-<h1 align="center">Hi, I'm ϻ๑ɾĭ٤ ツ </h1>
+<h1 align="center">Hi, I'm Marie 𓆝 </h1>
 
 <h3 align="center">Computer Sciences Stutent at the UTBM (France).<h3>
 
