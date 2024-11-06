@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center"> CyberSecurity, AI & Web Development enthusiast! </h3>
 
 🤔 Looking for a Full Stack Developer? I'm here for you ! 💻 <br> 
-*My Website : [mxrie.jsmb.fr](https://mxrie.fr/)* <br>
+*My Website : [mxrie.fr](https://mxrie.fr/)* <br>
 *Contact me : ma.beneduci@orange.fr*
 
 ## 💻 Languages and Tools:
