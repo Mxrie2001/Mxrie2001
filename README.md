@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Computer Sciences Stutent at the UTBM (France).<h3>
 
-<h3 align="center"> CyberSecurity, AI & Web Development enthusiast! </h3>
+<h3 align="center"> Robotic, AI & Web Development enthusiast! </h3>
 
 🤔 Looking for a Full Stack Developer? I'm here for you ! 💻 <br> 
 *My Website : [mxrie.fr](https://mxrie.fr/)* <br>
